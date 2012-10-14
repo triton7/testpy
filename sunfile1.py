@@ -1,3 +1,3 @@
 some text in master 1
-some text in master 2
+oxox we in repo 2 on brance somebranch
 some text in master 3
